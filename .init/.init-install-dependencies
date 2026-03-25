@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/manufacturing-oee-tracker-2041-2057/frontend_react"
+}
